@@ -182,9 +182,9 @@ npx expo start
 ## 📸 Screenshots
 
 ### Login
-![Login](screenshots/login1.jpg)
-![Login](screenshots/login2.jpg)
-![Login](screenshots/login3.jpg)
+<img src="screenshots/login1.jpg" width="200"/>
+<img src="screenshots/login2.jpg" width="200"/>
+<img src="screenshots/login3.jpg" width="200"/>
 
 ### Register
 ![Register](screenshots/register1.jpg)
