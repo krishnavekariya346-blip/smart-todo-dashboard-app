@@ -192,7 +192,7 @@ npx expo start
 
 
 ### 📝 Register
-<p align="center">
+<p align="left">
   <img src="screenshots/register1.jpg" width="200"/>
   <img src="screenshots/register2.jpg" width="200"/>
   <img src="screenshots/register3.jpg" width="200"/>
@@ -202,12 +202,12 @@ npx expo start
 
 
 ### 🏠 Dashboard
-<p align="center">
+<p align="left">
   <img src="screenshots/dashboard1.jpg" width="200"/>
   <img src="screenshots/dashboard2.jpg" width="200"/>
   <img src="screenshots/dashboard3.jpg" width="200"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="screenshots/dashboard4.jpg" width="200"/>
   <img src="screenshots/dashboard5.jpg" width="200"/>
   <img src="screenshots/searchTask.jpg" width="200"/>
@@ -217,7 +217,7 @@ npx expo start
 
 
 ### 📅 Calendar
-<p align="center">
+<p align="left">
   <img src="screenshots/calendar1.jpg" width="200"/>
   <img src="screenshots/calendar2.jpg" width="200"/>
   <img src="screenshots/calendar3.jpg" width="200"/>
@@ -227,7 +227,7 @@ npx expo start
 
 
 ### ➕ Add Task
-<p align="center">
+<p align="left">
   <img src="screenshots/addTaskHigh.jpg" width="200"/>
   <img src="screenshots/addTaskMedium.jpg" width="200"/>
   <img src="screenshots/addTaskLow.jpg" width="200"/>
@@ -237,7 +237,7 @@ npx expo start
 
 
 ### 👤 Profile
-<p align="center">
+<p align="left">
   <img src="screenshots/profile.jpg" width="200"/>
   <img src="screenshots/editProfile.jpg" width="200"/>
   <img src="screenshots/editProfile1.jpg" width="200"/>
@@ -247,22 +247,22 @@ npx expo start
 
 
 ### 📋 Tasks
-<p align="center">
+<p align="left">
   <img src="screenshots/tasks1.jpg" width="200"/>
   <img src="screenshots/showCompleted.jpg" width="200"/>
   <img src="screenshots/completedToast.jpg" width="200"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="screenshots/disappearCompleted.jpg" width="200"/>
   <img src="screenshots/showDelete.jpg" width="200"/>
   <img src="screenshots/deletedToast.jpg" width="200"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="screenshots/tasks2.jpg" width="200"/>
   <img src="screenshots/viewModal.jpg" width="200"/>
   <img src="screenshots/editModel.jpg" width="200"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="screenshots/pendingTask.jpg" width="200"/>
   <img src="screenshots/completedTask.jpg" width="200"/>
 </p>
@@ -271,12 +271,12 @@ npx expo start
 
 
 ### 🌙 Dark Theme
-<p align="center">
+<p align="left">
   <img src="screenshots/darkTheme1.jpg" width="200"/>
   <img src="screenshots/darkTheme2.jpg" width="200"/>
   <img src="screenshots/darkTheme3.jpg" width="200"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="screenshots/darkTheme4.jpg" width="200"/>
 </p>
 
