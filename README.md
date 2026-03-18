@@ -190,6 +190,7 @@ npx expo start
 
 ---
 
+
 ### 📝 Register
 <p align="center">
   <img src="screenshots/register1.jpg" width="200"/>
@@ -198,6 +199,7 @@ npx expo start
 </p>
 
 ---
+
 
 ### 🏠 Dashboard
 <p align="center">
@@ -213,6 +215,7 @@ npx expo start
 
 ---
 
+
 ### 📅 Calendar
 <p align="center">
   <img src="screenshots/calendar1.jpg" width="200"/>
@@ -221,6 +224,7 @@ npx expo start
 </p>
 
 ---
+
 
 ### ➕ Add Task
 <p align="center">
@@ -231,6 +235,7 @@ npx expo start
 
 ---
 
+
 ### 👤 Profile
 <p align="center">
   <img src="screenshots/profile.jpg" width="200"/>
@@ -239,6 +244,7 @@ npx expo start
 </p>
 
 ---
+
 
 ### 📋 Tasks
 <p align="center">
@@ -262,6 +268,7 @@ npx expo start
 </p>
 
 ---
+
 
 ### 🌙 Dark Theme
 <p align="center">
@@ -326,24 +333,6 @@ GitHub: https://github.com/krishnavekariya346-blip/smart-todo-dashboard-app
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> 121a5ab (Added screenshots and updated README)
 
 ---
 
