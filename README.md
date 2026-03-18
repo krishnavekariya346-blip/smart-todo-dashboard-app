@@ -181,60 +181,97 @@ npx expo start
 
 ## 📸 Screenshots
 
-### Login
+### 🔐 Login
 <p align="center">
   <img src="screenshots/login1.jpg" width="200"/>
   <img src="screenshots/login2.jpg" width="200"/>
   <img src="screenshots/login3.jpg" width="200"/>
 </p>
 
-### Register
-![Register](screenshots/register1.jpg)
-![Register](screenshots/register2.jpg)
-![Register](screenshots/register3.jpg)
+---
 
-### Dashboard
-![Dashboard](screenshots/dashboard1.jpg)
-![Dashboard](screenshots/dashboard2.jpg)
-![Dashboard](screenshots/dashboard3.jpg)
-![Dashboard](screenshots/dashboard4.jpg)
-![Dashboard](screenshots/dashboard5.jpg)
-![Search](screenshots/searchTask.jpg)
+### 📝 Register
+<p align="center">
+  <img src="screenshots/register1.jpg" width="200"/>
+  <img src="screenshots/register2.jpg" width="200"/>
+  <img src="screenshots/register3.jpg" width="200"/>
+</p>
 
+---
 
-### Calendar
-![Calendar](screenshots/calendar1.jpg)
-![Calendar](screenshots/calendar2.jpg)
-![Calendar](screenshots/calendar3.jpg)
+### 🏠 Dashboard
+<p align="center">
+  <img src="screenshots/dashboard1.jpg" width="200"/>
+  <img src="screenshots/dashboard2.jpg" width="200"/>
+  <img src="screenshots/dashboard3.jpg" width="200"/>
+</p>
+<p align="center">
+  <img src="screenshots/dashboard4.jpg" width="200"/>
+  <img src="screenshots/dashboard5.jpg" width="200"/>
+  <img src="screenshots/searchTask.jpg" width="200"/>
+</p>
 
-### AddTask
-![AddTask](screenshots/addTaskHigh.jpg)
-![AddTask](screenshots/addTaskMedium.jpg)
-![AddTask](screenshots/addTaskLow.jpg)
+---
 
-### Profile
-![Profile](screenshots/profile.jpg)
-![EditedProfile](screenshots/editProfile.jpg)
-![EditedProfile](screenshots/editProfile1.jpg)
+### 📅 Calendar
+<p align="center">
+  <img src="screenshots/calendar1.jpg" width="200"/>
+  <img src="screenshots/calendar2.jpg" width="200"/>
+  <img src="screenshots/calendar3.jpg" width="200"/>
+</p>
 
-### Tasks
-![tasks](screenshots/tasks1.jpg)
-![task-complete](screenshots/showCompleted.jpg)
-![completedToast](screenshots/completedToast.jpg)
-![disAppearComplete](screenshots/disappearCompleted.jpg)
-![task-delete](screenshots/showDelete.jpg)
-![deletedToast](screenshots/deletedToast.jpg)
-![AfterDeletedTasks](screenshots/tasks2.jpg)
-![ViewTask](screenshots/viewModal.jpg)
-![EditTask](screenshots/editModel.jpg)
-![PendingTasks](screenshots/pendingTask.jpg)
-![CompletedTasks](screenshots/completedTask.jpg)
+---
 
-### DarkTheme
-![DarkTheme](screenshots/darkTheme1.jpg)
-![DarkTheme](screenshots/darkTheme2.jpg)
-![DarkTheme](screenshots/darkTheme3.jpg)
-![DarkTheme](screenshots/darkTheme4.jpg)
+### ➕ Add Task
+<p align="center">
+  <img src="screenshots/addTaskHigh.jpg" width="200"/>
+  <img src="screenshots/addTaskMedium.jpg" width="200"/>
+  <img src="screenshots/addTaskLow.jpg" width="200"/>
+</p>
+
+---
+
+### 👤 Profile
+<p align="center">
+  <img src="screenshots/profile.jpg" width="200"/>
+  <img src="screenshots/editProfile.jpg" width="200"/>
+  <img src="screenshots/editProfile1.jpg" width="200"/>
+</p>
+
+---
+
+### 📋 Tasks
+<p align="center">
+  <img src="screenshots/tasks1.jpg" width="200"/>
+  <img src="screenshots/showCompleted.jpg" width="200"/>
+  <img src="screenshots/completedToast.jpg" width="200"/>
+</p>
+<p align="center">
+  <img src="screenshots/disappearCompleted.jpg" width="200"/>
+  <img src="screenshots/showDelete.jpg" width="200"/>
+  <img src="screenshots/deletedToast.jpg" width="200"/>
+</p>
+<p align="center">
+  <img src="screenshots/tasks2.jpg" width="200"/>
+  <img src="screenshots/viewModal.jpg" width="200"/>
+  <img src="screenshots/editModel.jpg" width="200"/>
+</p>
+<p align="center">
+  <img src="screenshots/pendingTask.jpg" width="200"/>
+  <img src="screenshots/completedTask.jpg" width="200"/>
+</p>
+
+---
+
+### 🌙 Dark Theme
+<p align="center">
+  <img src="screenshots/darkTheme1.jpg" width="200"/>
+  <img src="screenshots/darkTheme2.jpg" width="200"/>
+  <img src="screenshots/darkTheme3.jpg" width="200"/>
+</p>
+<p align="center">
+  <img src="screenshots/darkTheme4.jpg" width="200"/>
+</p>
 
 
 ---
