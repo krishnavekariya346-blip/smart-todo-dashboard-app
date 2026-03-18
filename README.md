@@ -1,5 +1,7 @@
 # 📱 Smart Todo Dashboard App (React Native + Expo)
 
+A modern mobile-first task management application built using React Native (Expo) with authentication, task tracking, and dynamic UI.
+
 ![React Native](https://img.shields.io/badge/React_Native-Expo-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ES6-blue)
 ![Context API](https://img.shields.io/badge/Context_API-State-purple)
@@ -9,18 +11,17 @@
 
 ---
 
-## 📱 Overview
+## 📱 About The Project
 
-**TaskMaster Pro** is a high-performance, cross-platform task management application built using **React Native (Expo)**.  
+This app allows users to manage daily tasks efficiently with a clean and interactive interface.
+It demonstrates:
 
-It focuses on a **mobile-first user experience**, offering smooth animations, gesture-based interactions, and persistent local storage.
-
-This app demonstrates real-world application architecture including:
-- Authentication
-- State management
-- Data persistence
-- Clean UI/UX patterns
-
+- Authentication system
+- Task CRUD operations
+- Local data persistence
+- State management using Context API
+- Mobile UI/UX best practices
+  
 ---
 
 ## 🚀 Features
@@ -107,26 +108,46 @@ This app demonstrates real-world application architecture including:
 ---
 
 ## 📂 Project Structure
+```
+app/
+  (auth)/
+    login.tsx
+    register.tsx
 
-/app
-/(auth)
-login.tsx
-register.tsx
-/(tabs)
-dashboard.tsx
-addtask.tsx
-profile.tsx
-_layout.tsx
+  (tabs)/
+    dashboard.tsx
+    addtask.tsx
+    profile.tsx
+    _layout.tsx
 
-/context
-AuthContext.tsx
-TaskContext.tsx
+calendar.tsx
+index.tsx
+tasks.tsx
 
-/theme
-colors.ts
-darkTheme.ts
-useTheme.ts
+context/
+  AuthContext.tsx
+  TaskContext.tsx
 
+theme/
+  colors.ts
+  darkTheme.ts
+  useTheme.ts
+
+components/
+assets/
+hooks/
+styles/
+constants/
+```
+
+---
+
+## ⚙️ Getting Started
+**Prerequisites**
+
+- Node.js
+- npm / yarn
+- Expo CLI
 
 ---
 
@@ -134,71 +155,103 @@ useTheme.ts
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/todo-dashboard-app.git
+git clone https://github.com/krishnavekariya346-blip/smart-todo-dashboard-app.git
 
 # Navigate to project
-cd todo-dashboard-app
+cd smart-todo-dashboard-app
 
 # Install dependencies
 npm install
 
 # Start Expo
 npx expo start
+```
+---
 
-📸 Screenshots
+📱 Usage
 
-![Login](./assets/login.png)
-![Dashboard](./assets/dashboard.png)
-![Calendar](./assets/calendar.png)
-![Profile](./assets/profile.png)
-
-🔐 Data Handling
-
-Data stored locally using AsyncStorage
-
-User-specific storage:
-
-TASKS_userEmail
-
-Ensures each user sees only their tasks
+- Register or login
+- Add new tasks
+- Swipe to complete or delete
+- Track progress on dashboard
+- Filter tasks using calendar
+- Toggle dark/light mode
 
 ---
 
-🧠 Key Concepts Used
+## 📸 Screenshots
 
-Context API for global state
+### Login
+![Login](screenshots/login.png)
 
-Persistent authentication
+### Register
+![Signup](screenshots/signup.png)
 
-Form validation with Yup
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-Swipe gestures for UX
+### Calendar
+![Products](screenshots/products.png)
 
-Dynamic theming system
+### AddTask
+![Cart](screenshots/carts.png)
 
----
+### Profile
+![Post](screenshots/posts.png)
 
-🌟 Future Improvements
-
-🔄 Cloud sync (Firebase / Supabase)
-
-📲 Push notifications
-
-🧑‍🤝‍🧑 Multi-user collaboration
-
-📊 Task analytics
-
-🏷️ Task categories
+### Todo Page
+![todo](screenshots/todos.png)
+![todoDetails](screenshots/todosDetail.png)
 
 ---
 
-🙌 Author
+## 🔐 Data Handling
+
+- Data stored locally using AsyncStorage
+- User-specific storage:
+  
+    TASKS_userEmail
+- Ensures each user sees only their tasks
+
+---
+
+## 🧠 Key Concepts Used
+
+- Context API for global state
+- Persistent authentication
+- Form validation with Yup
+- Swipe gestures for UX
+- Dynamic theming system
+
+---
+
+## 🌟 Future Improvements
+
+- 🔄 Cloud sync (Firebase / Supabase)
+- 📲 Push notifications
+- 🧑‍🤝‍🧑 Multi-user collaboration
+- 📊 Task analytics
+- 🏷️ Task categories
+
+---
+
+## Contact
 
 Krishna Vekariya
 
+GitHub: https://github.com/krishnavekariya346-blip/smart-todo-dashboard-app
+
 ---
 
-📄 License
+## Acknowledgments
+- React Native Docs
+- Expo Docs
+- AsyncStorage
+- React Hook Form
+
+---
+
+## 📄 License
 
 This project is licensed under the MIT License.
 
