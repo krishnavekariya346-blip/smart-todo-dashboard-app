@@ -182,7 +182,7 @@ npx expo start
 ## 📸 Screenshots
 
 ### 🔐 Login
-<p align="center">
+<p align="left">
   <img src="screenshots/login1.jpg" width="200"/>
   <img src="screenshots/login2.jpg" width="200"/>
   <img src="screenshots/login3.jpg" width="200"/>
