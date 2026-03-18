@@ -202,6 +202,58 @@ npx expo start
 ### Todo Page
 ![todo](screenshots/todos.png)
 ![todoDetails](screenshots/todosDetail.png)
+![Login](screenshots/login1.jpg)
+![Login](screenshots/login2.jpg)
+![Login](screenshots/login3.jpg)
+
+### Register
+![Register](screenshots/register1.jpg)
+![Register](screenshots/register2.jpg)
+![Register](screenshots/register3.jpg)
+
+### Dashboard
+![Dashboard](screenshots/dashboard1.jpg)
+![Dashboard](screenshots/dashboard2.jpg)
+![Dashboard](screenshots/dashboard3.jpg)
+![Dashboard](screenshots/dashboard4.jpg)
+![Dashboard](screenshots/dashboard5.jpg)
+![Search](screenshots/searchTask.jpg)
+
+
+### Calendar
+![Calendar](screenshots/calendar1.jpg)
+![Calendar](screenshots/calendar2.jpg)
+![Calendar](screenshots/calendar3.jpg)
+
+### AddTask
+![AddTask](screenshots/addTaskHigh.jpg)
+![AddTask](screenshots/addTaskMedium.jpg)
+![AddTask](screenshots/addTaskLow.jpg)
+
+### Profile
+![Profile](screenshots/profile.jpg)
+![EditedProfile](screenshots/editProfile.jpg)
+![EditedProfile](screenshots/editProfile1.jpg)
+
+### Tasks
+![tasks](screenshots/tasks1.jpg)
+![task-complete](screenshots/showCompleted.jpg)
+![completedToast](screenshots/completedToast.jpg)
+![disAppearComplete](screenshots/disappearCompleted.jpg)
+![task-delete](screenshots/showDelete.jpg)
+![deletedToast](screenshots/deletedToast.jpg)
+![AfterDeletedTasks](screenshots/tasks2.jpg)
+![ViewTask](screenshots/viewModal.jpg)
+![EditTask](screenshots/editModel.jpg)
+![PendingTasks](screenshots/pendingTask.jpg)
+![CompletedTasks](screenshots/completedTask.jpg)
+
+### DarkTheme
+![DarkTheme](screenshots/darkTheme1.jpg)
+![DarkTheme](screenshots/darkTheme2.jpg)
+![DarkTheme](screenshots/darkTheme3.jpg)
+![DarkTheme](screenshots/darkTheme4.jpg)
+
 
 ---
 
@@ -249,6 +301,7 @@ GitHub: https://github.com/krishnavekariya346-blip/smart-todo-dashboard-app
 - AsyncStorage
 - React Hook Form
 
+
 ---
 
 ## 📄 License
@@ -270,6 +323,11 @@ This project is licensed under the MIT License.
 
 
 
+=======
+>>>>>>> 121a5ab (Added screenshots and updated README)
 
+---
 
+## 📄 License
 
+This project is licensed under the MIT License.
