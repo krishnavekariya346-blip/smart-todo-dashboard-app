@@ -182,26 +182,6 @@ npx expo start
 ## 📸 Screenshots
 
 ### Login
-![Login](screenshots/login.png)
-
-### Register
-![Signup](screenshots/signup.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Calendar
-![Products](screenshots/products.png)
-
-### AddTask
-![Cart](screenshots/carts.png)
-
-### Profile
-![Post](screenshots/posts.png)
-
-### Todo Page
-![todo](screenshots/todos.png)
-![todoDetails](screenshots/todosDetail.png)
 ![Login](screenshots/login1.jpg)
 ![Login](screenshots/login2.jpg)
 ![Login](screenshots/login3.jpg)
