@@ -181,11 +181,99 @@ npx expo start
 
 ## 📸 Screenshots
 
+### 🔐 Login
 <p align="left">
-  <img src="screenshots/login1.jpg" width="250"/>&nbsp;&nbsp;
-  <img src="screenshots/login2.jpg" width="250"/>&nbsp;&nbsp;
-  <img src="screenshots/login3.jpg" width="250"/>
+  <img src="screenshots/login1.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/login2.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/login3.jpg" width="300"/>
 </p>
+
+---
+
+### 📝 Register
+<p align="left">
+  <img src="screenshots/register1.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/register2.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/register3.jpg" width="300"/>
+</p>
+
+---
+
+### 🏠 Dashboard
+<p align="left">
+  <img src="screenshots/dashboard1.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/dashboard2.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/dashboard3.jpg" width="300"/>
+</p>
+<p align="left">
+  <img src="screenshots/dashboard4.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/dashboard5.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/searchTask.jpg" width="300"/>
+</p>
+
+---
+
+### 📅 Calendar
+<p align="left">
+  <img src="screenshots/calendar1.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/calendar2.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/calendar3.jpg" width="300"/>
+</p>
+
+---
+
+### ➕ Add Task
+<p align="left">
+  <img src="screenshots/addTaskHigh.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/addTaskMedium.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/addTaskLow.jpg" width="300"/>
+</p>
+
+---
+
+### 👤 Profile
+<p align="left">
+  <img src="screenshots/profile.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/editProfile.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/editProfile1.jpg" width="300"/>
+</p>
+
+---
+
+### 📋 Tasks
+<p align="left">
+  <img src="screenshots/tasks1.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/showCompleted.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/completedToast.jpg" width="300"/>
+</p>
+<p align="left">
+  <img src="screenshots/disappearCompleted.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/showDelete.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/deletedToast.jpg" width="300"/>
+</p>
+<p align="left">
+  <img src="screenshots/tasks2.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/viewModal.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/editModel.jpg" width="300"/>
+</p>
+<p align="left">
+  <img src="screenshots/pendingTask.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/completedTask.jpg" width="300"/>
+</p>
+
+---
+
+### 🌙 Dark Theme
+<p align="left">
+  <img src="screenshots/darkTheme1.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/darkTheme2.jpg" width="300"/>&nbsp;&nbsp;
+  <img src="screenshots/darkTheme3.jpg" width="300"/>
+</p>
+<p align="left">
+  <img src="screenshots/darkTheme4.jpg" width="300"/>
+</p>
+
+---
 
 ---
 
