@@ -1,50 +1,222 @@
-# Welcome to your Expo app 👋
+# 📱 Smart Todo Dashboard App (React Native + Expo)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![React Native](https://img.shields.io/badge/React_Native-Expo-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-ES6-blue)
+![Context API](https://img.shields.io/badge/Context_API-State-purple)
+![Expo Router](https://img.shields.io/badge/Expo_Router-Routing-black)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-Storage-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
-## Get started
+---
 
-1. Install dependencies
+## 📱 Overview
 
-   ```bash
-   npm install
-   ```
+**TaskMaster Pro** is a high-performance, cross-platform task management application built using **React Native (Expo)**.  
 
-2. Start the app
+It focuses on a **mobile-first user experience**, offering smooth animations, gesture-based interactions, and persistent local storage.
 
-   ```bash
-   npx expo start
-   ```
+This app demonstrates real-world application architecture including:
+- Authentication
+- State management
+- Data persistence
+- Clean UI/UX patterns
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🚀 Features
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 🔐 Authentication System
+- User **Register & Login**
+- Data stored using **AsyncStorage**
+- Persistent login session
+- User-specific dashboard (like Instagram)
 
-## Get a fresh project
+---
 
-When you're ready, run:
+### 🏠 Dashboard
+- Dynamic greeting (Good Morning / Afternoon / Evening)
+- Displays logged-in **user name**
+- **Progress bar** (task completion percentage)
+- **3 Interactive Stat Cards**
+  - 📊 Total Tasks
+  - ⏳ Pending Tasks
+  - ✅ Completed Tasks
+- Clickable → filters tasks accordingly
+
+---
+
+### 🔍 Task Management
+- Add, Edit, Delete tasks
+- Swipe gestures:
+  - 👉 Swipe right → Complete task
+  - 👈 Swipe left → Delete task
+- Task details modal with edit option
+- Prevents re-completing already completed tasks
+
+---
+
+### 📅 Calendar Integration
+- View tasks based on **selected date**
+- Shows:
+  - 🟢 Completed tasks
+  - 🔴 Pending tasks
+- Click on date → filter tasks
+
+---
+
+### ➕ Add Task
+- Built using **React Hook Form**
+- Fields:
+  - Title
+  - Description
+  - Priority (Low / Medium / High)
+  - Due Date
+- Date Picker integration
+- Form validation
+
+---
+
+### 👤 Profile Screen
+- Edit user name
+- Dark Mode toggle 🌙
+- Logout functionality
+- Changes reflect instantly on dashboard
+
+---
+
+### 🎨 UI/UX Highlights
+- Clean and modern UI
+- Dark / Light theme support
+- Haptic feedback
+- Toast notifications
+- Responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React Native (Expo)
+- 🧭 Expo Router
+- 🧠 Context API (Auth + Task Management)
+- 💾 AsyncStorage (Local Storage)
+- 📝 React Hook Form + Yup (Validation)
+- 📅 react-native-calendars
+- 🎯 Expo Haptics
+- 🔔 react-native-toast-message
+
+---
+
+## 📂 Project Structure
+
+/app
+/(auth)
+login.tsx
+register.tsx
+/(tabs)
+dashboard.tsx
+addtask.tsx
+profile.tsx
+_layout.tsx
+
+/context
+AuthContext.tsx
+TaskContext.tsx
+
+/theme
+colors.ts
+darkTheme.ts
+useTheme.ts
+
+
+---
+
+## ⚙️ Installation & Setup
 
 ```bash
-npm run reset-project
-```
+# Clone the repo
+git clone https://github.com/your-username/todo-dashboard-app.git
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+# Navigate to project
+cd todo-dashboard-app
 
-## Learn more
+# Install dependencies
+npm install
 
-To learn more about developing your project with Expo, look at the following resources:
+# Start Expo
+npx expo start
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+📸 Screenshots
 
-## Join the community
+![Login](./assets/login.png)
+![Dashboard](./assets/dashboard.png)
+![Calendar](./assets/calendar.png)
+![Profile](./assets/profile.png)
 
-Join our community of developers creating universal apps.
+🔐 Data Handling
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Data stored locally using AsyncStorage
+
+User-specific storage:
+
+TASKS_userEmail
+
+Ensures each user sees only their tasks
+
+---
+
+🧠 Key Concepts Used
+
+Context API for global state
+
+Persistent authentication
+
+Form validation with Yup
+
+Swipe gestures for UX
+
+Dynamic theming system
+
+---
+
+🌟 Future Improvements
+
+🔄 Cloud sync (Firebase / Supabase)
+
+📲 Push notifications
+
+🧑‍🤝‍🧑 Multi-user collaboration
+
+📊 Task analytics
+
+🏷️ Task categories
+
+---
+
+🙌 Author
+
+Krishna Vekariya
+
+---
+
+📄 License
+
+This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
