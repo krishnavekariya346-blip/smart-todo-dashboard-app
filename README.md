@@ -190,6 +190,7 @@ npx expo start
 
 ---
 
+
 ### 📝 Register
 <p align="left">
   <img src="screenshots/register1.jpg" width="300"/>&nbsp;&nbsp;
@@ -198,6 +199,7 @@ npx expo start
 </p>
 
 ---
+
 
 ### 🏠 Dashboard
 <p align="left">
@@ -213,6 +215,7 @@ npx expo start
 
 ---
 
+
 ### 📅 Calendar
 <p align="left">
   <img src="screenshots/calendar1.jpg" width="300"/>&nbsp;&nbsp;
@@ -221,6 +224,7 @@ npx expo start
 </p>
 
 ---
+
 
 ### ➕ Add Task
 <p align="left">
@@ -231,6 +235,7 @@ npx expo start
 
 ---
 
+
 ### 👤 Profile
 <p align="left">
   <img src="screenshots/profile.jpg" width="300"/>&nbsp;&nbsp;
@@ -239,6 +244,7 @@ npx expo start
 </p>
 
 ---
+
 
 ### 📋 Tasks
 <p align="left">
@@ -263,6 +269,7 @@ npx expo start
 
 ---
 
+
 ### 🌙 Dark Theme
 <p align="left">
   <img src="screenshots/darkTheme1.jpg" width="300"/>&nbsp;&nbsp;
@@ -275,7 +282,6 @@ npx expo start
 
 ---
 
----
 
 ## 🔐 Data Handling
 
