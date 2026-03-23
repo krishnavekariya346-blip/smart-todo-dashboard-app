@@ -153,22 +153,22 @@ constants/
 
 ## ⚙️ Installation & Setup
 
-# Clone the repo
+1. Clone the repo
 ```
 git clone https://github.com/krishnavekariya346-blip/smart-todo-dashboard-app.git
 ```
 
-# Navigate to project
+2. Navigate to project
 ```
 cd smart-todo-dashboard-app
 ```
 
-# Install dependencies
+3. Install dependencies
 ```
 npm install
 ```
 
-# Start Expo
+4. Start Expo
 ```
 npx expo start
 ```
